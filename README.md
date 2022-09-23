@@ -1,4 +1,8 @@
 
+```
+All tests passed!
+```
+
 # Patika.dev Community Gaming Solana & Rust Practicum
 
 ## Hands on Task: Merkle Tree Root Calculator on Rust
